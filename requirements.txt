@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pymongo
+redis
+flask
+httpx
+cachetools
+validators
